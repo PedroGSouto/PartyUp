@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PartyUp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="AppName">PartyUp</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="male">Male</string>
+    <string name="other">Other</string>
+    <string name="female">Female</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="maps_api_key">AIzaSyC0_gvpeuHAIkhmwGWLJ5MPpPI7QXIGq4s</string>
+    <string name="Scanner">Scanner</string>
+    <string name="Map">Map</string>
+    <string name="Home">Home</string>
+    <string name="Friends">Friends</string>
+    <string name="Profile">Profile</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="new_request">New Request</string>
+    <string name="partyup">PartyUp!</string>
+    <string name="Chat">Chat</string>
+    <string name="default_info_title">Default Info Title</string>
+    <string name="default_info_snippet">Default Info Snippet</string>
+    <string name="pick_place">Pick Place</string>
+    <string name="option_get_place">Get Place</string>
+</resources>
